@@ -180,6 +180,9 @@ This project is intended for **educational and research purposes only**. It is *
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
 
 ---
+## 👤 Authors
+Vaishnavi Choudhari
+Sanganna Jalade
 
 <div align="center">
 
