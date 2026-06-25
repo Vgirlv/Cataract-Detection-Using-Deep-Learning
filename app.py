@@ -30,7 +30,7 @@ _supabase: Client = create_client(
     os.environ.get("SUPABASE_KEY"),
 )
 
-BASE_URL = "https://cataract-detection-using-deep-learning.onrender.com/"
+BASE_URL = "https://cataract-detection-using-deep-learning-1.onrender.com/"
 
 st.set_page_config(
     page_title="EyeShield — Cataract Detection",
